@@ -1,0 +1,1 @@
+My name is Amaan Khan, and I am currently pursuing a BCS degree. Outside of my academic interests, one of my favorite hobbies is going to the gym, where I focus on staying fit and improving my strength.
