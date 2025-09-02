@@ -3,4 +3,16 @@ My name is Amaan Khan, and I am a graduate of Nixor College. I have always been 
 
 
 # Heading 
-## hlkjhj
+## This is Heading 2
+**This is bold text**
+_This text is italicized_
+
+1. ap
+2. bcs
+3. pf
+4. lab
+
+* 45
+* 46
+* 47
+* 39'67
